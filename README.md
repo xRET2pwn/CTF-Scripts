@@ -6,5 +6,6 @@
 | challenge Name | Difficulty  | link |
 | :---: | :---: | :---: |
 | limitless | medium | [Here](https://github.com/0xDiablos/CTF-Scripts/tree/master/Binary%20Exploitation/limitless) |
-| Buffer overflow 1 | Basic | [Here](https://github.com/0xDiablos/CTF-Scripts/tree/master/Binary%20Exploitation/Buffer%20overflow%201) |
-| Buffer overflow 2 | easy | Soon |
+| Buffer overflow 0 | Basic | [Here](https://github.com/0xDiablos/CTF-Scripts/tree/master/Binary%20Exploitation/Buffer%20overflow%201) |
+| Buffer overflow 1 | easy | Soon |
+| Buffer overflow 2 | medium | Soon |
